@@ -180,11 +180,25 @@ h2{
     }
     .cabecalho__menu{
         justify-content: center;
+        margin-left: -190px;
+    }
+
+    .cabecalho__menu__link{
+        
+         margin-right: 10px;
     }
 
     .apresentacao__conteudo{
         margin-top:30px;
         width:auto;
+    }
+
+    .apresentacao__conteudo__titulo{
+        margin-top: -110px;
+    }
+
+    .apresentacao__links__navegacao{
+        width: 100%;
     }
 
     .hallanrsantos{
